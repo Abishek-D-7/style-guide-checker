@@ -24,7 +24,7 @@ special functions are exempt from this documentation rule.
 
 Documentation helps readers understand a function's purpose. The checker uses
 `ast.get_docstring` to check presence only; even an empty string counts as a
-docstring. Human reviewers decide whether the text explains the function well.
+docstring. Reviewers decide whether the text explains the function well.
 
 ## File names
 
